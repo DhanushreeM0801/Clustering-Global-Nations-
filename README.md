@@ -1,5 +1,3 @@
-<img width="816" height="158" alt="image" src="https://github.com/user-attachments/assets/63699354-d17f-496c-acdb-1286f2d18411" /># Clustering-Global-Nations-
-To categorise the countries using socio-economic and health factors that determine the overall development of the country.
 # 🌍 Unsupervised Learning for Country Classification – HELP International
 
 This project applies unsupervised machine learning techniques to assist **HELP International**, a global humanitarian NGO, in identifying countries most in need of aid based on socio-economic and health indicators. The organization raised **$10 million** to support underprivileged nations, and this project provides a data-driven strategy to allocate those funds effectively.
